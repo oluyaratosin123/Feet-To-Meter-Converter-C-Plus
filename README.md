@@ -1,4 +1,4 @@
-# Say-Hello-In-C-Plus
+# Feet-To-Meter-Converter-C-Plus
 Here in this demo I have created a feet to meter converter in C++, where a user enters his/her name and could also type in how far he has journeyed and see the result in meters, I also would congratulate him/her making it through.
 
 # Demo
